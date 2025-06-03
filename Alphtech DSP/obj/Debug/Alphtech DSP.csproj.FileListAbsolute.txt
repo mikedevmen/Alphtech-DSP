@@ -1,0 +1,57 @@
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\Alphtech DSP.exe.config
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\Alphtech DSP.exe
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\Alphtech DSP.pdb
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.Asio.dll
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.Core.dll
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.dll
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.Midi.dll
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.Wasapi.dll
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.WinForms.dll
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.WinMM.dll
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\System.Security.AccessControl.dll
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.xml
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.Asio.xml
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.Core.xml
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.Midi.xml
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.Wasapi.xml
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.WinForms.xml
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.WinMM.xml
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\System.Security.AccessControl.xml
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\obj\Debug\Alphtech DSP.csproj.AssemblyReference.cache
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\obj\Debug\Alphtech DSP.csproj.CoreCompileInputs.cache
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\obj\Debug\Alphtech.2CF4DB48.Up2Date
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\obj\Debug\Alphtech DSP.exe
+C:\Users\AD\Documents\Alphtech DSP\Alphtech DSP\obj\Debug\Alphtech DSP.pdb
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\Alphtech DSP.exe.config
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\Alphtech DSP.exe
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\Alphtech DSP.pdb
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.Asio.dll
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.Core.dll
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.dll
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.Midi.dll
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.WinForms.dll
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.WinMM.dll
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.xml
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.Asio.xml
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.Core.xml
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.Midi.xml
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.WinForms.xml
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\NAudio.WinMM.xml
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\obj\Debug\Alphtech DSP.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\obj\Debug\Alphtech DSP.exe.config
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\obj\Debug\Alphtech DSP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\obj\Debug\Alphtech.2CF4DB48.Up2Date
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\obj\Debug\Alphtech DSP.exe
+C:\Users\Admin\Documents\Alphtech DSP\Alphtech DSP\obj\Debug\Alphtech DSP.pdb
