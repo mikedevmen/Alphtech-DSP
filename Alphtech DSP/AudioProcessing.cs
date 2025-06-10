@@ -1,30 +1,35 @@
 ﻿using System;
+using Alphtech_DSP;
 using NAudio.Wave;
 
-namespace AplhtechDSP
+namespace AlphtechDSP
 {
     public class AudioProcessing : IDisposable
     {
         private WaveInEvent input;
         private WaveOutEvent output;
         private BufferedWaveProvider buffer;
+        private Amp amp;
 
         public AudioProcessing()
         {
             input = new WaveInEvent
             {
                 WaveFormat = new WaveFormat(44100, 1),
-                BufferMilliseconds = 15
+                BufferMilliseconds = 10
             };
 
             output = new WaveOutEvent
             {
                 DesiredLatency = 50
             };
+
             buffer = new BufferedWaveProvider(input.WaveFormat)
             {
                 DiscardOnBufferOverflow = true
             };
+
+            amp = new Amp();
 
             input.DataAvailable += OnDataAvailable;
             output.Init(buffer);
@@ -42,9 +47,10 @@ namespace AplhtechDSP
             output.Stop();
         }
 
-        private void OnDataAvailable(object sender, WaveInEventArgs e)
+        private void OnDataAvailable(object sender, WaveInEventArgs e) //(data source, event args)
         {
-            buffer.AddSamples(e.Buffer, 0, e.BytesRecorded);
+            byte[] processedData = amp.Process(e.Buffer, e.BytesRecorded); //(raw audio data, length of data in bytes)
+            buffer.AddSamples(processedData, 0, processedData.Length); //(processed audio data, offset in bytes, count in bytes)
         }
 
         public void Dispose() //cleanup resources
