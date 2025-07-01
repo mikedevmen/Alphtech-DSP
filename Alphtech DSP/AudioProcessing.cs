@@ -53,6 +53,11 @@ namespace AlphtechDSP
             buffer.AddSamples(processedData, 0, processedData.Length); //(processed audio data, offset in bytes, count in bytes)
         }
 
+        public Amp GetAmp() 
+        {
+            return amp;
+        }
+
         public void Dispose() //cleanup resources
         {
             input?.Dispose();

@@ -1,0 +1,27 @@
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\bin\x64\Debug\net8.0-windows\UI.exe
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\bin\x64\Debug\net8.0-windows\UI.deps.json
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\bin\x64\Debug\net8.0-windows\UI.runtimeconfig.json
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\bin\x64\Debug\net8.0-windows\UI.dll
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\bin\x64\Debug\net8.0-windows\UI.pdb
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\bin\x64\Debug\net8.0-windows\Alphtech DSP.exe
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\bin\x64\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\bin\x64\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\bin\x64\Debug\net8.0-windows\Alphtech DSP.pdb
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\bin\x64\Debug\net8.0-windows\Alphtech DSP.exe.config
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\bin\x64\Debug\net8.0-windows\NAudio.WinMM.xml
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\bin\x64\Debug\net8.0-windows\NAudio.Core.xml
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\obj\x64\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\obj\x64\Debug\net8.0-windows\UI.Form1.resources
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\obj\x64\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\obj\x64\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\obj\x64\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\obj\x64\Debug\net8.0-windows\UI.AssemblyInfo.cs
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\obj\x64\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\obj\x64\Debug\net8.0-windows\UI.sourcelink.json
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\obj\x64\Debug\net8.0-windows\UI.csproj.Up2Date
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\obj\x64\Debug\net8.0-windows\UI.dll
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\obj\x64\Debug\net8.0-windows\refint\UI.dll
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\obj\x64\Debug\net8.0-windows\UI.pdb
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\obj\x64\Debug\net8.0-windows\UI.genruntimeconfig.cache
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\obj\x64\Debug\net8.0-windows\ref\UI.dll
+C:\Users\Admin\Documents\Alphtech DSP\UI\UI\obj\x64\Debug\net8.0-windows\UI.Properties.Resources.resources
